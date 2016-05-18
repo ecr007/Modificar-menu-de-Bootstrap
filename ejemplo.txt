@@ -1,0 +1,3 @@
+If you're using less, customize the @grid-float-breakpoint. If you aren't you can use the Customize page to
+modify the value and produce a custom css file. To have the collapse at the 992px breakpoint,
+change the value to: @screen-md-min.
